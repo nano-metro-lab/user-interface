@@ -9,6 +9,7 @@ public class NanoMetro extends ApplicationAdapter {
 	SpriteBatch batch;
 	Texture img;
 	Texture img;
+	Texture img;
 	@Override
 	public void create () {
 		batch = new SpriteBatch();
